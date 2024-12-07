@@ -1,0 +1,2 @@
+Parts of this code for training and evaluating the TensorFlow model were adapted from publicly available TensorFlow 1.x image classification tutorials and Udacity’s Self-Driving Car Nanodegree projects.
+One particularly helpful repo was https://github.com/liferlisiqi/Traffic-Sign-Classifier/tree/master
